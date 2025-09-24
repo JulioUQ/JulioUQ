@@ -4,8 +4,6 @@
 - 👯 Busco colaborar en proyectos con investigadores en gestión pesquera e inteligencia artificial<br>
 - 🤔 Busco ayuda con la interactividad entre componentes en diseño web con python<br>
 - 💬 Preguntame sobre análisis de datos, pesca sostenible, modelización de poblaciones y visualización interactiva de información marina<br>
-- 📫 Contactamente: LinkedIn<br>
-
 
 ## 🌐 Redes sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliouq/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:julioubedaquesada@gmail.com) 
