@@ -1,10 +1,10 @@
 # 💫 Sobre mí:
-- 🔭 Actualmente trabajo en TRAGSATEC (España) para el Ministerio de Pesca, Agricultura y Alimentación<br><br>
+- 🔭 Actualmente trabajo como científico de datos en TRAGSATEC (España) para el Ministerio de Pesca, Agricultura y Alimentación<br><
 - 🌱 Entre otras cosas estoy aprendiendo en ratos libres diseño web, HTML, CSS, JSON y JavaScript<br>
 - 👯 Busco colaborar en proyectos con investigadores en gestión pesquera e inteligencia artificial<br>
 - 🤔 Busco ayuda con la interactividad entre componentes en diseño web con python<br>
 - 💬 Preguntame sobre análisis de datos, pesca sostenible, modelización de poblaciones y visualización interactiva de información marina<br>
-- 📫 Contactamente: LinkedIn<br><br>⚡ Hecho gracioso: He calculado la “huella oceánica” de varias especies de pescado usando Python antes de desayunar café ☕
+- 📫 Contactamente: LinkedIn<br>
 
 
 ## 🌐 Redes sociales:
