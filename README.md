@@ -66,16 +66,5 @@
 ### ✍️ Favorite Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulioUQ&theme=github_dark)
-
-![](https://github-readme-stats.vercel.app/api?username=JulioUQ&show_icons=true&theme=github_dark&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=JulioUQ&theme=github-dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioUQ&layout=compact&theme=github_dark&hide_border=true)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=JulioUQ&icon=5&color=6)](https://visitcount.itsvg.in)
