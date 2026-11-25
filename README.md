@@ -1,70 +1,56 @@
-# 💫 About Me:
-- 🔭 Senior Data Scientist at **TRAGSATEC**, leading Data Engineering, Machine Learning and Analytics projects for the **Spanish Ministry of Agriculture, Fisheries and Food**.
-- 🎓 M.Sc. in **Data Science** and M.Sc. in **Sustainable Fisheries Management**, with a background in **Marine Sciences**.
-- 🤖 Passionate about **Machine Learning, Deep Learning, Data Engineering, MLOps and AI-driven decision making**.
-- ☁️ Experienced in building end-to-end data solutions using **Python, SQL, Spark, AWS, GIS technologies and interactive dashboards**.
-- 🌍 Collaborating with international institutions on fisheries management, scientific research and data standardization initiatives across Europe.
-- 📚 Author and co-author of peer-reviewed scientific publications and contributor to international research projects.
-- 🚀 Always learning about **Generative AI, Large Language Models (LLMs), Cloud Computing and scalable AI architectures**.
-- 💬 Ask me about **Python, Machine Learning, Data Engineering, GIS, Sustainable Fisheries, ETL Pipelines, Interactive Dashboards, SQL, Cloud Analytics and Scientific Data**.
+# Julio Ubeda Quesada
 
-## 🌐 Connect with me
+**Senior Data Scientist at TRAGSATEC**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliouq/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/JulioUQ)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:julioubedaquesada@gmail.com)
+Data Engineering · Machine Learning · Geospatial Analytics · Fisheries Science
 
-# 💻 Tech Stack
+Spain · [LinkedIn](https://www.linkedin.com/in/julio-ubeda-quesada-4b3a57159) · [Email](mailto:julioubedaquesada@gmail.com)
 
-### 🤖 Data Science & Artificial Intelligence
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+---
 
-### ☁️ Big Data & Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Dask](https://img.shields.io/badge/Dask-FC6E6B?style=for-the-badge&logo=dask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## About me
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+I lead data engineering, machine learning and analytics projects for Spain's Ministry of Agriculture, Fisheries and Food. My work spans data pipelines, statistical models, interactive dashboards and maps.
 
-### 📊 Analytics & Visualization
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
+I hold master's degrees in Data Science and Sustainable Fisheries Management and have a background in Marine Science. I collaborate with international institutions on fisheries research, management and data standardization, and have co-authored peer-reviewed research.
 
-### 🌍 GIS & Geospatial
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white)
-![Shapely](https://img.shields.io/badge/Shapely-2C7BB6?style=for-the-badge)
-![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge)
-![PyQGIS](https://img.shields.io/badge/PyQGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+---
 
-### ⚙️ Development
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+## Featured projects
 
-### ✍️ Favorite Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### [End-to-End Local Analytics Platform](https://github.com/JulioUQ/plataforma-analitica-local)
 
+A local pipeline for rental analytics. n8n imports spreadsheets into SQL Server, and a Python dashboard built with Dash lets users explore monthly indicators by booking platform and period.
 
-[![](https://visitcount.itsvg.in/api?id=JulioUQ&icon=5&color=6)](https://visitcount.itsvg.in)
+`n8n` · `SQL Server` · `Python` · `Dash`
+
+### [Interactive Map Generator](https://github.com/JulioUQ/App-Generador_de_Mapas_Interactivos)
+
+A Streamlit app that turns spreadsheets and GIS layers into standalone HTML maps. Users can combine datasets, configure legends and filters, and share the resulting map as a single file.
+
+`Python` · `Streamlit` · `Folium` · `GeoPandas`
+
+### [Spanish Fishing Fleet Analysis](https://github.com/JulioUQ/Data-Science-Pescas-Limpieza-y-Modelado)
+
+A data cleaning and modeling project covering the Spanish fishing fleet from 1987 to 2025. It examines changes in fleet composition and geographic distribution using vessel characteristics such as size, engine power and fishing method.
+
+`Python` · `pandas` · `Machine learning`
+
+### [Greenland Halibut Stock Structure](https://github.com/JulioUQ/Multivariate_Autoregressive_State-Space_-MARSS-_models)
+
+An analysis of North Atlantic survey time series using multivariate autoregressive state-space models. The project compares hypotheses about stock structure and examines trends in abundance.
+
+`R` · `MARSS` · `Time series` · `Fisheries science`
+
+[Explore all repositories](https://github.com/JulioUQ?tab=repositories)
+
+---
+
+## Tools I work with
+
+| Area | Tools |
+| --- | --- |
+| Data science | Python, R, pandas, scikit-learn, PyTorch |
+| Data engineering | SQL, SQL Server, PostgreSQL, Spark, n8n, Docker, AWS |
+| Visualization | Plotly, Dash, Streamlit, Power BI |
+| Geospatial analytics | QGIS, PostGIS, GeoPandas, Folium |
