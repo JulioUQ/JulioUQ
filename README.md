@@ -1,125 +1,63 @@
 <div align="center">
 
-<img src="./images/marine-data-studio.jpg" alt="Voxel-art illustration of a marine data scientist working in a coastal observatory" width="100%" />
+<img src="./images/marine-data-studio.jpg" alt="Ilustración en vóxel de un científico de datos marino trabajando en un observatorio costero" width="100%" />
 
 # Julio Úbeda Quesada
 
-### Senior Data Scientist at TRAGSATEC
+### Data Scientist
 
-**Data Engineering · Machine Learning · Geospatial Analytics · Fisheries Science**
+**Ingeniería de datos · Machine learning · Análisis geoespacial · Ciencias pesqueras**
 
-[![LinkedIn — Connect](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-ubeda-quesada-4b3a57159) [![Email — Get in touch](https://img.shields.io/badge/Email-Get_in_touch-C23D32?style=flat-square&logo=gmail&logoColor=white)](mailto:julioubedaquesada@gmail.com) [![GitHub — Explore my work](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JulioUQ?tab=repositories)
-
-Spain
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Ver_proyectos-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juliouq.github.io/Portfolio-Web---JulioUQ/es/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/juliouq/)
 
 </div>
 
 ---
 
-## About me
+## Sobre mí
 
-I am a **Senior Data Scientist at TRAGSATEC**, where I lead data engineering, machine learning and analytics projects for Spain's Ministry of Agriculture, Fisheries and Food.
+Construyo procesos de datos de principio a fin: extracción y ETL, análisis estadístico, modelos de machine learning y visualización con Python, R, SQL y QGIS. Vengo de las ciencias del mar y la investigación pesquera, y hoy aplico ese conocimiento en Tragsatec con datos del Sistema de Información Pesquera Español.
 
-My work includes:
-
-- building data pipelines and automating recurring imports
-- applying statistical models and machine learning to scientific data
-- building dashboards and interactive maps to explore patterns over time and across regions
-
-I hold master's degrees in Data Science and Sustainable Fisheries Management and have a background in Marine Science. I collaborate with international institutions on fisheries research, management and data standardization, and have co-authored peer-reviewed research.
+**Formación:** Máster Universitario en Ciencia de Datos (UOC), Máster en Gestión Pesquera Sostenible y Grado en Ciencias del Mar (Universidad de Alicante). He publicado investigación revisada por pares sobre la estructura de las poblaciones de peces.
 
 ---
 
-## Featured work
+## Proyectos destacados
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| | Proyecto | Qué demuestra |
+| --- | --- | --- |
+| ![](https://img.shields.io/badge/APLICACI%C3%93N-1565C0?style=flat-square) | [**Generador de mapas interactivos**](https://github.com/JulioUQ/app-generador-mapas) · [demo](https://juliouq.github.io/Portfolio-Web---JulioUQ/es/casos/generador-de-mapas/demo/) | App en Streamlit que convierte tablas y capas GIS en un mapa HTML autónomo |
+| ![](https://img.shields.io/badge/INGENIER%C3%8DA_DE_DATOS-EF6C00?style=flat-square) | [**Plataforma local de analítica**](https://github.com/JulioUQ/plataforma-analitica-local) · [demo](https://juliouq.github.io/plataforma-analitica-local/) | ETL con n8n y SQL Server, dashboard en Dash y publicación automática |
+| ![](https://img.shields.io/badge/INVESTIGACI%C3%93N-00695C?style=flat-square) | [**Estructura del fletán negro (MARSS)**](https://github.com/JulioUQ/investigacion-fletan-negro-marss) · [artículo](https://doi.org/10.1111/fme.12639) | Modelos en espacio de estados en R; primer autor del artículo |
+| ![](https://img.shields.io/badge/INVESTIGACI%C3%93N-00695C?style=flat-square) | [**Supervivencia en cáncer (TFM)**](https://github.com/JulioUQ/investigacion-supervivencia-cancer) | Cox-LASSO, Random Survival Forest y DeepSurv con validación entre cohortes |
+| ![](https://img.shields.io/badge/CURSO-6A1B9A?style=flat-square) | [**Estadística básica**](https://github.com/JulioUQ/Curso-de-Estadistica-Basica) · [curso](https://juliouq.github.io/Curso-de-Estadistica-Basica/) | Curso en Quarto con librería propia, tests e integración continua |
 
-### [📊 Local Analytics Platform](https://github.com/JulioUQ/plataforma-analitica-local)
+### Flota pesquera española: del dato a la aplicación
 
-**Data engineering · ETL · Interactive analytics**
+[![](https://img.shields.io/badge/INGENIER%C3%8DA_DE_DATOS-EF6C00?style=flat-square)](https://github.com/JulioUQ/datos-web-scraping-flota) **[Web scraping](https://github.com/JulioUQ/datos-web-scraping-flota)** → [![](https://img.shields.io/badge/MACHINE_LEARNING-C62828?style=flat-square)](https://github.com/JulioUQ/ml-flota-pesquera) **[Limpieza y modelos](https://github.com/JulioUQ/ml-flota-pesquera)** → [![](https://img.shields.io/badge/APLICACI%C3%93N-1565C0?style=flat-square)](https://github.com/JulioUQ/app-dashboard-flota-pesquera) **[Dashboard](https://github.com/JulioUQ/app-dashboard-flota-pesquera)**
 
-A local pipeline for rental analytics. n8n imports spreadsheets into SQL Server, and a Dash dashboard lets users explore monthly indicators by booking platform and period.
+### Ruta de ciencia de datos
 
-`n8n` `SQL Server` `Python` `Dash`
+[1. Estadística básica](https://github.com/JulioUQ/Curso-de-Estadistica-Basica) → [2. Aprendizaje automático](https://github.com/JulioUQ/curso-aprendizaje-automatico) → [3. Deep learning](https://github.com/JulioUQ/curso-deep-learning)
 
-</td>
-<td width="50%" valign="top">
+Proyectos con la teoría necesaria para resolverlos, de la estadística descriptiva a los transformers y los modelos generativos.
 
-### [🗺️ Interactive Map Generator](https://github.com/JulioUQ/App-Generador_de_Mapas_Interactivos)
+### Más proyectos
 
-**GIS · Interactive maps · Data visualization**
-
-A Streamlit app that combines spreadsheets and GIS layers into a standalone HTML map. Users can configure legends and filters and share the result as a single file.
-
-`Python` `Streamlit` `Folium` `GeoPandas`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🚢 Spanish Fishing Fleet Analysis](https://github.com/JulioUQ/Data-Science-Pescas-Limpieza-y-Modelado)
-
-**Fisheries · Data preparation · Machine learning**
-
-A study of the Spanish fishing fleet from 1987 to 2025. It examines changes in fleet composition and geographic distribution using vessel size, engine power and fishing method.
-
-`Python` `pandas` `Machine learning`
-
-</td>
-<td width="50%" valign="top">
-
-### [🐟 Greenland Halibut Stock Structure](https://github.com/JulioUQ/Multivariate_Autoregressive_State-Space_-MARSS-_models)
-
-**Fisheries science · Statistical modeling**
-
-An analysis of North Atlantic survey time series that compares hypotheses about stock structure and examines trends in abundance.
-
-`R` `MARSS` `Time series`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [📈 Cancer Survival Analysis](https://github.com/JulioUQ/TFM---Analisis-de-supervivencia-del-cancer)
-
-**Master’s thesis · Survival analysis · Genomics**
-
-A comparison and validation of survival models for breast and lung cancer cohorts, with a focus on genomic biomarkers associated with prognosis.
-
-`Survival models` `Biomarkers` `Cross-validation`
-
-</td>
-<td width="50%" valign="top">
-
-### [📚 Data Storytelling with Streamlit](https://github.com/JulioUQ/StoryTelling_Con_Streamlit)
-
-**Exploratory analysis · Visual storytelling**
-
-An exercise in turning exploratory analysis into a narrative using interactive charts and visual explanations in Streamlit.
-
-`Python` `Streamlit` `Visualization`
-
-</td>
-</tr>
-</table>
-
-### Earlier projects
-
-- [Data Stream Processing](https://github.com/JulioUQ/Procesado-de-datos-en-Streaming) — materials and exercises on processing data streams.
-- [Dash Course](https://github.com/JulioUQ/Curso-Dash) — practical examples for building dashboards in Python.
-- [Machine Learning with Python](https://github.com/JulioUQ/Aprendizaje-automatico-con-python) — notebooks and exercises on machine learning.
+- **Ingeniería de datos:** [Hadoop y Spark](https://github.com/JulioUQ/datos-hadoop-spark) · [streaming con Kafka y Spark](https://github.com/JulioUQ/datos-streaming)
+- **Cloud:** [pipeline en streaming en AWS](https://github.com/JulioUQ/cloud-aws)
+- **Visualización:** [storytelling de reservas hoteleras](https://github.com/JulioUQ/viz-storytelling-reservas-hotel) · [técnicas de visualización](https://github.com/JulioUQ/Tecnicas_de_Visualizacion_de_Datos) ([web](https://juliouq.github.io/Tecnicas_de_Visualizacion_de_Datos/))
+- **Cursos:** [dashboards con Dash](https://github.com/JulioUQ/curso-dashboards-dash)
 
 ---
 
-## Selected toolkit
+## Herramientas
 
-| Area | Technologies and methods |
+| Área | Tecnologías y métodos |
 | --- | --- |
-| Data science | Python, R, pandas, scikit-learn, PyTorch |
-| Data engineering | SQL, SQL Server, PostgreSQL, Spark, n8n, Docker, AWS |
-| Visualization | Plotly, Dash, Streamlit, Power BI |
-| Geospatial analytics | QGIS, PostGIS, GeoPandas, Folium |
+| Ciencia de datos | Python, R, pandas, scikit-learn, XGBoost, statsmodels |
+| Deep learning | TensorFlow/Keras, PyTorch, Hugging Face |
+| Ingeniería de datos | SQL, SQL Server, PostgreSQL, n8n, Spark, Kafka, Docker |
+| Cloud | AWS (EC2, Lambda, Kinesis, S3, Athena) |
+| Visualización | Plotly, Dash, Streamlit, Quarto, Power BI |
+| Análisis geoespacial | QGIS, PostGIS, GeoPandas, Folium |
