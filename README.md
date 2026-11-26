@@ -124,13 +124,6 @@ Construyo procesos de datos de principio a fin: extracción y ETL, análisis est
 </tr>
 </table>
 
---- | --- | --- |
-| ![](https://img.shields.io/badge/DATOS-EF6C00?style=flat-square) | [Hadoop y Spark](https://github.com/JulioUQ/datos-hadoop-spark) | Procesamiento por lotes con HDFS, RDDs, DataFrames y Hive |
-| ![](https://img.shields.io/badge/DATOS-EF6C00?style=flat-square) | [Streaming](https://github.com/JulioUQ/datos-streaming) | Kafka, Spark Streaming y Structured Streaming |
-| ![](https://img.shields.io/badge/VISUALIZACI%C3%93N-00838F?style=flat-square) | [Storytelling de reservas hoteleras](https://github.com/JulioUQ/viz-storytelling-reservas-hotel) | Narrativa visual sobre cancelaciones con Streamlit |
-| ![](https://img.shields.io/badge/VISUALIZACI%C3%93N-00838F?style=flat-square) | [Técnicas de visualización](https://github.com/JulioUQ/Tecnicas_de_Visualizacion_de_Datos) · [web](https://juliouq.github.io/Tecnicas_de_Visualizacion_de_Datos/) | Sectores, velas japonesas y envolvente convexa con Plotly |
-| ![](https://img.shields.io/badge/CURSO-6A1B9A?style=flat-square) | [Dashboards con Dash](https://github.com/JulioUQ/curso-dashboards-dash) | Callbacks, pestañas e informes en HTML y Excel |
-
 ---
 
 ## Herramientas
