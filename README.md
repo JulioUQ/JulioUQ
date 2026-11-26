@@ -1,125 +1,32 @@
-<div align="center">
-
-<img src="./images/marine-data-studio.jpg" alt="Voxel-art illustration of a marine data scientist working in a coastal observatory" width="100%" />
-
 # Julio Úbeda Quesada
 
-### Senior Data Scientist at TRAGSATEC
+Soy científico de datos sénior en TRAGSATEC. Trabajo en ingeniería de datos, aprendizaje automático y análisis geoespacial aplicado a la pesca. Tengo formación de posgrado en ciencia de datos y gestión pesquera sostenible, y he colaborado en investigación y publicaciones científicas.
 
-**Data Engineering · Machine Learning · Geospatial Analytics · Fisheries Science**
+[![Sitio en vivo](https://img.shields.io/badge/Sitio_en_vivo-0369A1?style=flat)](https://juliouq.github.io/Portfolio-Web---JulioUQ/es/) · [Portfolio profesional](https://juliouq.github.io/Portfolio-Web---JulioUQ/es/)
 
-[![LinkedIn — Connect](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-ubeda-quesada-4b3a57159) [![Email — Get in touch](https://img.shields.io/badge/Email-Get_in_touch-C23D32?style=flat-square&logo=gmail&logoColor=white)](mailto:julioubedaquesada@gmail.com) [![GitHub — Explore my work](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JulioUQ?tab=repositories)
+[Portfolio in English](https://juliouq.github.io/Portfolio-Web---JulioUQ/en/) · [LinkedIn](https://www.linkedin.com/in/juliouq/) · [Contacto](mailto:julioubedaquesada@gmail.com)
 
-Spain
+## Proyectos destacados
 
-</div>
+| Proyecto | Qué muestra | Acceso |
+| --- | --- | --- |
+| [Plataforma · Analítica de alquileres](https://github.com/JulioUQ/Plataforma-Analitica-Local) | Canalización local que importa datos de alquileres con n8n, los almacena en SQL Server y permite explorar indicadores mensuales en Dash. La demo pública muestra una exportación de ejemplo. `n8n, SQL Server, Python y Dash` | [Sitio en vivo](https://juliouq.github.io/Plataforma-Analitica-Local/) |
+| [Aplicación · Generador de mapas interactivos](https://github.com/JulioUQ/App-Generador_de_Mapas_Interactivos) | Aplicación local que convierte tablas de posiciones y capas GIS en un mapa HTML autónomo para explorar y compartir sin instalar la aplicación en el equipo del destinatario. `Python, Streamlit, Folium y GeoPandas` | [Repositorio](https://github.com/JulioUQ/App-Generador_de_Mapas_Interactivos) |
+| [Curso · Estadística básica con Python](https://github.com/JulioUQ/Curso-de-Estadistica-Basica) | Curso interactivo en Quarto con teoría, ejercicios en Python y una biblioteca didáctica propia que contrasta sus resultados con SciPy y statsmodels. `Quarto, Python, SciPy y statsmodels` | [Sitio en vivo](https://juliouq.github.io/Curso-de-Estadistica-Basica/) |
+| [Análisis · Evolución de la flota pesquera española](https://github.com/JulioUQ/Analisis-tecnico-de-la-flota-pesquera) | Proyecto académico sobre la evolución de la flota española, con análisis de características técnicas y distribución geográfica y un panel desarrollado con Streamlit. `Python, Streamlit y datos geoespaciales` | [Repositorio](https://github.com/JulioUQ/Analisis-tecnico-de-la-flota-pesquera) |
+| [Investigación · Estructura poblacional del fletán negro](https://github.com/JulioUQ/Multivariate_Autoregressive_State-Space_-MARSS-_models) | Análisis de series de campañas científicas del Atlántico Norte que compara hipótesis sobre la estructura poblacional del fletán negro. `R, MARSS y series temporales` | [Repositorio](https://github.com/JulioUQ/Multivariate_Autoregressive_State-Space_-MARSS-_models) |
+| [TFM · Análisis de supervivencia del cáncer](https://github.com/JulioUQ/TFM---Analisis-de-supervivencia-del-cancer) | Trabajo de fin de máster que compara modelos de supervivencia para cohortes de cáncer de mama y pulmón y estudia el valor pronóstico de variables genómicas. `Python y análisis de supervivencia` | [Repositorio](https://github.com/JulioUQ/TFM---Analisis-de-supervivencia-del-cancer) |
 
----
+## Más proyectos
 
-## About me
+- [Curso · Dash para aplicaciones de datos](https://github.com/JulioUQ/Curso-Dash)
+- [Visualización · Cancelaciones de reservas hoteleras](https://github.com/JulioUQ/StoryTelling_Con_Streamlit)
+- [Visualización · Exploración de datos financieros](https://github.com/JulioUQ/Tecnicas_de_Visualizacion_de_Datos) · [Sitio en vivo](https://juliouq.github.io/Tecnicas_de_Visualizacion_de_Datos/)
+- [Análisis · Limpieza y modelado de datos de la flota pesquera](https://github.com/JulioUQ/Data-Science-Pescas-Limpieza-y-Modelado)
+- [Prácticas · Procesamiento de datos en streaming](https://github.com/JulioUQ/Procesado-de-datos-en-Streaming)
 
-I am a **Senior Data Scientist at TRAGSATEC**, where I lead data engineering, machine learning and analytics projects for Spain's Ministry of Agriculture, Fisheries and Food.
+## Tecnologías
 
-My work includes:
-
-- building data pipelines and automating recurring imports
-- applying statistical models and machine learning to scientific data
-- building dashboards and interactive maps to explore patterns over time and across regions
-
-I hold master's degrees in Data Science and Sustainable Fisheries Management and have a background in Marine Science. I collaborate with international institutions on fisheries research, management and data standardization, and have co-authored peer-reviewed research.
-
----
-
-## Featured work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [📊 Local Analytics Platform](https://github.com/JulioUQ/plataforma-analitica-local)
-
-**Data engineering · ETL · Interactive analytics**
-
-A local pipeline for rental analytics. n8n imports spreadsheets into SQL Server, and a Dash dashboard lets users explore monthly indicators by booking platform and period.
-
-`n8n` `SQL Server` `Python` `Dash`
-
-</td>
-<td width="50%" valign="top">
-
-### [🗺️ Interactive Map Generator](https://github.com/JulioUQ/App-Generador_de_Mapas_Interactivos)
-
-**GIS · Interactive maps · Data visualization**
-
-A Streamlit app that combines spreadsheets and GIS layers into a standalone HTML map. Users can configure legends and filters and share the result as a single file.
-
-`Python` `Streamlit` `Folium` `GeoPandas`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🚢 Spanish Fishing Fleet Analysis](https://github.com/JulioUQ/Data-Science-Pescas-Limpieza-y-Modelado)
-
-**Fisheries · Data preparation · Machine learning**
-
-A study of the Spanish fishing fleet from 1987 to 2025. It examines changes in fleet composition and geographic distribution using vessel size, engine power and fishing method.
-
-`Python` `pandas` `Machine learning`
-
-</td>
-<td width="50%" valign="top">
-
-### [🐟 Greenland Halibut Stock Structure](https://github.com/JulioUQ/Multivariate_Autoregressive_State-Space_-MARSS-_models)
-
-**Fisheries science · Statistical modeling**
-
-An analysis of North Atlantic survey time series that compares hypotheses about stock structure and examines trends in abundance.
-
-`R` `MARSS` `Time series`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [📈 Cancer Survival Analysis](https://github.com/JulioUQ/TFM---Analisis-de-supervivencia-del-cancer)
-
-**Master’s thesis · Survival analysis · Genomics**
-
-A comparison and validation of survival models for breast and lung cancer cohorts, with a focus on genomic biomarkers associated with prognosis.
-
-`Survival models` `Biomarkers` `Cross-validation`
-
-</td>
-<td width="50%" valign="top">
-
-### [📚 Data Storytelling with Streamlit](https://github.com/JulioUQ/StoryTelling_Con_Streamlit)
-
-**Exploratory analysis · Visual storytelling**
-
-An exercise in turning exploratory analysis into a narrative using interactive charts and visual explanations in Streamlit.
-
-`Python` `Streamlit` `Visualization`
-
-</td>
-</tr>
-</table>
-
-### Earlier projects
-
-- [Data Stream Processing](https://github.com/JulioUQ/Procesado-de-datos-en-Streaming) — materials and exercises on processing data streams.
-- [Dash Course](https://github.com/JulioUQ/Curso-Dash) — practical examples for building dashboards in Python.
-- [Machine Learning with Python](https://github.com/JulioUQ/Aprendizaje-automatico-con-python) — notebooks and exercises on machine learning.
-
----
-
-## Selected toolkit
-
-| Area | Technologies and methods |
-| --- | --- |
-| Data science | Python, R, pandas, scikit-learn, PyTorch |
-| Data engineering | SQL, SQL Server, PostgreSQL, Spark, n8n, Docker, AWS |
-| Visualization | Plotly, Dash, Streamlit, Power BI |
-| Geospatial analytics | QGIS, PostGIS, GeoPandas, Folium |
+- Datos y modelado · Python, R, SQL, scikit-learn y PyTorch.
+- Ingeniería de datos · SQL Server, PostgreSQL, Spark, n8n y Docker.
+- Visualización y GIS · Dash, Streamlit, Plotly, QGIS, PostGIS y GeoPandas.
