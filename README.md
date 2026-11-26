@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver_proyectos-0B2545?style=flat-square&logo=googlechrome&logoColor=white)](https://juliouq.github.io/Portfolio-Web---JulioUQ/es/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square)](https://www.linkedin.com/in/juliouq/) [![GitHub](https://img.shields.io/badge/GitHub-Repositorios-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JulioUQ?tab=repositories)
 
-Construyo procesos de datos de principio a fin —extracción y ETL, análisis estadístico, machine learning y visualización— con Python, R, SQL y QGIS.<br>Vengo de las ciencias del mar y la investigación pesquera.
+Construyo procesos de datos de principio a fin: extracción y ETL, análisis estadístico, modelos de machine learning y visualización con Python, R, SQL y QGIS. Vengo de las ciencias del mar y la investigación pesquera, y hoy aplico ese conocimiento en Tragsatec con datos del Sistema de Información Pesquera Español (SIPE).
 
 </div>
 
@@ -56,7 +56,7 @@ Construyo procesos de datos de principio a fin —extracción y ETL, análisis e
 <a href="https://github.com/JulioUQ/app-dashboard-flota-pesquera"><img src="./images/proyectos/dashboard-flota.jpg" alt="Dashboard de la flota pesquera española" width="100%" /></a>
 <h3><a href="https://github.com/JulioUQ/app-dashboard-flota-pesquera">🚢 Flota pesquera española</a></h3>
 <img src="https://img.shields.io/badge/APLICACI%C3%93N-1565C0?style=flat-square" alt="Aplicación" />
-<p>Del dato a la aplicación en tres repositorios: <a href="https://github.com/JulioUQ/datos-web-scraping-flota">web scraping</a> de los registros de buques → <a href="https://github.com/JulioUQ/ml-flota-pesquera">limpieza y modelos</a> → dashboard en Streamlit de 1987 a 2025.</p>
+<p>Del dato a la aplicación en tres repositorios: <a href="https://github.com/JulioUQ/datos-web-scraping-flota">web scraping</a> de los registros de buques → <a href="https://github.com/JulioUQ/ml-flota-pesquera">limpieza y modelos</a> → <a href="https://github.com/JulioUQ/app-dashboard-flota-pesquera">dashboard en Streamlit</a> de 1987 a 2025.</p>
 <code>Selenium</code> <code>scikit-learn</code> <code>Streamlit</code> <code>Plotly</code>
 </td>
 <td width="50%" valign="top">
@@ -91,8 +91,40 @@ Construyo procesos de datos de principio a fin —extracción y ETL, análisis e
 
 ## Más proyectos
 
-| | Proyecto | Descripción |
-| --- | --- | --- |
+<table>
+<tr>
+<th width="18%"></th>
+<th width="34%">Proyecto</th>
+<th width="48%">Descripción<br><img src="./images/espaciador.png" width="1000" height="1" alt="" /></th>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/DATOS-EF6C00?style=flat-square" alt="" /></td>
+<td><a href="https://github.com/JulioUQ/datos-hadoop-spark">Hadoop y Spark</a></td>
+<td>Procesamiento por lotes con HDFS, RDDs, DataFrames y Hive</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/DATOS-EF6C00?style=flat-square" alt="" /></td>
+<td><a href="https://github.com/JulioUQ/datos-streaming">Streaming</a></td>
+<td>Kafka, Spark Streaming y Structured Streaming</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/VISUALIZACI%C3%93N-00838F?style=flat-square" alt="" /></td>
+<td><a href="https://github.com/JulioUQ/viz-storytelling-reservas-hotel">Storytelling de reservas hoteleras</a></td>
+<td>Narrativa visual sobre cancelaciones con Streamlit</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/VISUALIZACI%C3%93N-00838F?style=flat-square" alt="" /></td>
+<td><a href="https://github.com/JulioUQ/Tecnicas_de_Visualizacion_de_Datos">Técnicas de visualización</a> · <a href="https://juliouq.github.io/Tecnicas_de_Visualizacion_de_Datos/">web</a></td>
+<td>Sectores, velas japonesas y envolvente convexa con Plotly</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/CURSO-6A1B9A?style=flat-square" alt="" /></td>
+<td><a href="https://github.com/JulioUQ/curso-dashboards-dash">Dashboards con Dash</a></td>
+<td>Callbacks, pestañas e informes en HTML y Excel</td>
+</tr>
+</table>
+
+--- | --- | --- |
 | ![](https://img.shields.io/badge/DATOS-EF6C00?style=flat-square) | [Hadoop y Spark](https://github.com/JulioUQ/datos-hadoop-spark) | Procesamiento por lotes con HDFS, RDDs, DataFrames y Hive |
 | ![](https://img.shields.io/badge/DATOS-EF6C00?style=flat-square) | [Streaming](https://github.com/JulioUQ/datos-streaming) | Kafka, Spark Streaming y Structured Streaming |
 | ![](https://img.shields.io/badge/VISUALIZACI%C3%93N-00838F?style=flat-square) | [Storytelling de reservas hoteleras](https://github.com/JulioUQ/viz-storytelling-reservas-hotel) | Narrativa visual sobre cancelaciones con Streamlit |
@@ -103,11 +135,33 @@ Construyo procesos de datos de principio a fin —extracción y ETL, análisis e
 
 ## Herramientas
 
-| Área | Tecnologías y métodos |
-| --- | --- |
-| Ciencia de datos | Python, R, pandas, scikit-learn, XGBoost, statsmodels |
-| Deep learning | TensorFlow/Keras, PyTorch, Hugging Face |
-| Ingeniería de datos | SQL, SQL Server, PostgreSQL, n8n, Spark, Kafka, Docker |
-| Cloud | AWS (EC2, Lambda, Kinesis, S3, Athena) |
-| Visualización | Plotly, Dash, Streamlit, Quarto, Power BI |
-| Análisis geoespacial | QGIS, PostGIS, GeoPandas, Folium |
+<table>
+<tr>
+<th width="30%">Área</th>
+<th width="70%">Tecnologías y métodos<br><img src="./images/espaciador.png" width="1000" height="1" alt="" /></th>
+</tr>
+<tr>
+<td>Ciencia de datos</td>
+<td>Python, R, pandas, scikit-learn, XGBoost, statsmodels</td>
+</tr>
+<tr>
+<td>Deep learning</td>
+<td>TensorFlow/Keras, PyTorch, Hugging Face</td>
+</tr>
+<tr>
+<td>Ingeniería de datos</td>
+<td>SQL, SQL Server, PostgreSQL, n8n, Spark, Kafka, Docker</td>
+</tr>
+<tr>
+<td>Cloud</td>
+<td>AWS (EC2, Lambda, Kinesis, S3, Athena)</td>
+</tr>
+<tr>
+<td>Visualización</td>
+<td>Plotly, Dash, Streamlit, Quarto, Power BI</td>
+</tr>
+<tr>
+<td>Análisis geoespacial</td>
+<td>QGIS, PostGIS, GeoPandas, Folium</td>
+</tr>
+</table>
